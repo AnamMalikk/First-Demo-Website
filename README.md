@@ -5,9 +5,7 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 <li>HTML
 <li>CSS
 <br>during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeai.tech
-or follow SHAPEAI on:
-  <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>   
-  <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>  
-  <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a> 
-  <li><a href="https://github.com/shapeai">GitHub</a>
+I enjoyed these 7 days, and made my first ever website.
+  
+![image portfolio first website](https://user-images.githubusercontent.com/87643183/169692603-531ba0c6-a96c-46b3-ad0d-bf6a6caf3a39.png)
+
